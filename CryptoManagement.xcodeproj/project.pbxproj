@@ -11,6 +11,7 @@
 		C5E7B2262A503803002E7707 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E7B2252A503803002E7707 /* ContentView.swift */; };
 		C5E7B2282A503804002E7707 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5E7B2272A503804002E7707 /* Assets.xcassets */; };
 		C5E7B22B2A503804002E7707 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5E7B22A2A503804002E7707 /* Preview Assets.xcassets */; };
+		C5E7B2322A50387E002E7707 /* Crypto.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E7B2312A50387E002E7707 /* Crypto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C5E7B2252A503803002E7707 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C5E7B2272A503804002E7707 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5E7B22A2A503804002E7707 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C5E7B2312A50387E002E7707 /* Crypto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crypto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C5E7B2232A503803002E7707 /* CryptoManagementApp.swift */,
 				C5E7B2252A503803002E7707 /* ContentView.swift */,
+				C5E7B2312A50387E002E7707 /* Crypto.swift */,
 				C5E7B2272A503804002E7707 /* Assets.xcassets */,
 				C5E7B2292A503804002E7707 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5E7B2322A50387E002E7707 /* Crypto.swift in Sources */,
 				C5E7B2262A503803002E7707 /* ContentView.swift in Sources */,
 				C5E7B2242A503803002E7707 /* CryptoManagementApp.swift in Sources */,
 			);
